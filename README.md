@@ -14,4 +14,4 @@ Make sure the wallet has enough funds to cover transaction fees.
 
 License
 -------
-This code is licensed under the [GNU Lesser General Public License v3.0](http://www.gnu.org/licenses/lgpl-3.0.txt).
+This code is licensed under the ["Do I Look Like I Give A Shit" License](http://blog.samuellevy.com/post/46-do-i-look-like-i-give-a-shit-public-license.html).
