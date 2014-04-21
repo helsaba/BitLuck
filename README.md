@@ -2,6 +2,8 @@ BitLuck
 =======
 A simple Bitcoin-based lottery script.
 
+**WARNING**: This script comes with absolutely no warranty. This was an example showing how the Bitcion JSON-RPC works. @PhilG has pointed out that there is a bug in this script which would result in players being able to play for free after their first entry.
+
 Installation
 ------------
 Set the configuration variables in `config.inc.php`.
